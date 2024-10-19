@@ -1,2 +1,1 @@
-# Daraz-Manual
- Practice
+# SQA_manual_testing_Project_Daraz
